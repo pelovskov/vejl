@@ -5,3 +5,5 @@ Gad vist hvor billedet bliver af?
 
 
 
+---
+[Tilbage til forsiden](index.html)

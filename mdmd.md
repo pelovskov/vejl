@@ -237,3 +237,6 @@ Nu står der et minus i stedet for et plus.
   når Markdown ikke rækker.
 - **Tomme linjer betyder noget.** Mangler der en tom linje før en liste
   eller en tabel, bliver den ikke omsat.
+
+---
+[Tilbage til forsiden](index.html)
