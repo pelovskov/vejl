@@ -1,9 +1,3 @@
----
-layout: page
-title: "Markdown-eksempler"
-permalink: /markdown-eksempel/
----
-
 Denne side viser de vigtigste Markdown-muligheder. Kig i **kildefilen**
 `markdown-eksempel.md` for at se, hvordan hver ting er skrevet.
 
