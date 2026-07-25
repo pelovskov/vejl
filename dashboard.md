@@ -98,3 +98,8 @@ HVAD ER SKÅRET FRA I FORHOLD TIL PHP-UDGAVEN
 - Billed-feltet (blev alligevel ikke vist på kortene)
 - Adskilte datafiler
 Alt andet er med: emner, tags, søgning, fastgør, noter, rækkefølge.
+
+---
+
+[Tilbage til forsiden](index.html)
+
