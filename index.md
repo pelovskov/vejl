@@ -12,6 +12,7 @@ Velkommen! Her finder du en samling af små vejledninger.
 - [Digital arkivering](Digital-arkivering-og-webhosting.html)
 - [John Sebastian](billedtest.html)
 - [Eksempelside](mdmd.html)
+- [Lokalt Dashboard](dashboard.html)
 
 
 -----
