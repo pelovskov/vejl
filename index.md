@@ -15,4 +15,5 @@ Velkommen! Her finder du en samling af små vejledninger.
 
 -----
 
-*(Tilføj en linje her, hver gang du opretter en ny vejledning-fil.)*
+
+Det er en testside, men vi er snart klar.
