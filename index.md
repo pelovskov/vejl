@@ -19,6 +19,7 @@ Velkommen! Her finder du en samling af små vejledninger.
 - [GDPR 5. kl](fotosafari/GDPR-minikursus_5-klasse.html)
 - [GDPR 9 - SOSU](fotosafari/GDPR-minikursus_9-klasse-og-erhvervsskole-SOSU.html)
 - [GDPR 60 +](fotosafari/GDPR-minikursus_60-plus.html)
+- [Den Visuelle Lynguide](https://pelovskov.github.io/vejl/fotosafari/grafisk_foto_lynguide.html)
 
 
 -----
