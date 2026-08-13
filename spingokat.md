@@ -3,7 +3,7 @@
 
 Ja ja
 
-> Hvisvi bare bliver ved med at gå, så skal det no
+> Hvis vi bare bliver ved med at gå, så skal det nok gå til sidst.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
